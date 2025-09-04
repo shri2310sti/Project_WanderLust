@@ -1,4 +1,4 @@
-# WanderLust
+# WanderLust (Ongoing)
 
 WanderLust is a Node.js web application for browsing, creating, editing, and deleting travel accommodation listings. It uses Express, MongoDB, and EJS for server-side rendering.
 
